@@ -12,7 +12,7 @@ This Python script demonstrates the application of K-means clustering, a machine
 ## Usage
 1. Ensure you have Python installed on your system.
 2. Install the required libraries by running `pip install numpy matplotlib scikit-learn`.
-3. Execute the script by running `python kmeans_clustering.py`.
+3. Execute the script by running `python kmeans.py`.
 4. The script generates two plots illustrating K-means clustering with different initialization methods: k-means++ and random.
 
 ## Functions
