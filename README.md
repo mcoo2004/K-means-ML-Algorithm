@@ -2,6 +2,7 @@
 
 ## Overview
 This Python script demonstrates the application of K-means clustering, a machine learning algorithm used for unsupervised clustering tasks. K-means is employed here to partition a synthetic dataset into distinct clusters and visualize the results.
+![image](https://github.com/mcoo2004/K-means-ML-Algorithm/assets/123424212/2647ef7c-be41-497a-aa19-4d8867ec856d)
 
 ## Libraries Used
 - NumPy: for numerical computations
